@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="url">https://hook.integromat.com/d3vumbm6fy6f1sc9nh1amru9sdt689al</string>
+    <string name="launch">file://preload.json</string>
+</resources>
